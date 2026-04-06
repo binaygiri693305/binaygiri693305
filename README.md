@@ -1,5 +1,5 @@
 # <!-- Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nikhil%20Verma&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Binay%20Kumar%20Giri&fontSize=40&fontColor=ffffff" />
 
 # <!-- Dynamic Typing Header -->
 <p align="center">
