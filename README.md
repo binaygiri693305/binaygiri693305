@@ -27,9 +27,9 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 AI Healthcare System</h4>
-      <p>A smart diagnostic application using <b>CNN Deep Learning models</b> to detect diseases from medical imagery. Provides real-time confidence scores and automated medical guidance.</p>
-      <em>Python • Deep Learning • Web Integration</em>
+      <h4>🔥 Early Forest Fire Detection System</h4>
+      <p>An AI/ML-based system that detects early signs of forest fires using <b>computer vision and deep learning</b> on satellite and CCTV imagery. Provides real-time alerts to help prevent large-scale environmental damage.</p>
+      <em>Python • Machine Learning • Computer Vision • OpenCV</em>
     </td>
     <td width="50%" valign="top">
       <h4>👤 FaceRec Attendance + Mail</h4>
